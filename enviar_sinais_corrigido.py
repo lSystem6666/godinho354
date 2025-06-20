@@ -7,8 +7,7 @@ import time
 import logging
 
 # === CONFIGURAÇÕES ===
-BOT_TOKEN = "6511111939:AAE92-VGCX03v8JA4EaG8654By8e6W2TSpQ"
-
+BOT_TOKEN = 
 # === Arquivo para armazenar dados de TODOS os chats ===
 CHAT_DATA_FILE = "chat_data.json"
 
